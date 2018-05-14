@@ -1,0 +1,12 @@
+image{
+    display: block;
+    width: 100%;
+}
+
+video{
+    width: 100%;
+}
+page{
+    font-size: 32rpx;
+    list-style: 1.5;
+}
